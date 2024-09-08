@@ -1,0 +1,15 @@
+
+1. Apache Spark overview - transformations, aggredations, data types
+2. Delta Lake - keeping history
+3. Unity Catalog - Delta Sharing and Connections
+4. Dataframes and Spark SQL
+5. Development and runtime. UDFs. Query optimization. partitioning. Streaming
+6. Monitoring and tuning
+7. ML with Spark
+8. Using Docker with Spark
+9. Using Kubernettes and K9s with Spark
+10. Workflow management with Airflow
+11. Cloud providers - AWS, Azure and Google
+12. Final project - connecting it all together
+
+
